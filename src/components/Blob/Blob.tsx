@@ -11,7 +11,7 @@ const CONSTANTS = {
 const FontStyle = createGlobalStyle`
 @font-face {
 	font-family: "Workbench Web";
-	src: url("/src/assets/Workbench[BLED,SCAN].woff2") format("woff2");
+	src: url("/Workbench[BLED,SCAN].woff2") format("woff2");
 }
 `;
 

@@ -1,12 +1,5 @@
-import React from "react";
-
 import "./App.css";
 import Blob from "./components/Blob";
-
-const CONSTANTS = {
-	height: 200,
-	width: (200 / 9) * 16,
-};
 
 function App() {
 	return (
